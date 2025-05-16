@@ -1,0 +1,15 @@
+DAVID LEE dati.lee@example.net - 555-000-1111. Lives in New York.
+Looking for a job in data. good with numbers.
+
+EXPERIENCE:
+Data Clerk at Data Corp from 2020 to 2022. I did data entry. I used excel a lot. Made some reports.
+Junior Analyst at Numbers Inc. 2022 - present. More data stuff. Python sometimes. SQL queries. Cleaned data.
+
+SKILLS
+Excel, python (beginner), SQL, data analysis, reports, numbers, attention to detail.
+
+EDUCATION
+Bachelors in Business, City College, 2019.
+Some online courses on data.
+
+References available upon request.

@@ -1,0 +1,55 @@
+Maria Garcia
+San Francisco, CA | (555) 123-4567 | maria.garcia.email@example.com | linkedin.com/in/mariagarcia | github.com/mariag
+
+Professional Summary
+Results-driven Software Engineer with 5+ years of experience in developing and deploying scalable web applications. Proficient in Python, JavaScript, and cloud technologies (AWS). Proven ability to lead small teams and deliver high-quality software products in fast-paced Agile environments. Seeking to leverage expertise in backend development and system architecture at a forward-thinking tech company.
+
+Skills
+Programming Languages: Python, JavaScript (Node.js, React), Java, SQL
+Frameworks & Libraries: Django, Flask, Express.js, React, Redux, Spring Boot
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, Jenkins, Git, Terraform
+Methodologies: Agile, Scrum, TDD
+
+Work Experience
+
+Senior Software Engineer | Innovatech Solutions Inc. | San Francisco, CA
+Jan 2021 – Present
+- Led the design and development of a new microservices-based e-commerce platform, resulting in a 30% improvement in scalability and a 20% reduction in page load times.
+- Mentored a team of 3 junior engineers, providing guidance on best practices, code reviews, and career development.
+- Architected and implemented a CI/CD pipeline using Jenkins and Docker, reducing deployment time by 50%.
+- Collaborated with product managers and UX designers to translate requirements into technical specifications and user-friendly features.
+- Technologies: Python (Django), React, PostgreSQL, AWS, Docker, Jenkins.
+
+Software Engineer | Tech Forward LLC | Austin, TX
+June 2018 – Dec 2020
+- Developed and maintained backend services for a SaaS application using Python (Flask) and Node.js.
+- Contributed to the development of a customer-facing API, improving data accessibility for key clients.
+- Implemented unit and integration tests, achieving 90% code coverage for critical modules.
+- Participated in daily stand-ups, sprint planning, and retrospectives within an Agile team.
+- Technologies: Python (Flask), Node.js, MongoDB, AWS (EC2, S3).
+
+Education
+
+Master of Science in Computer Science
+Stanford University | Stanford, CA
+Graduated: May 2018
+- Thesis: "Scalable Machine Learning Model Deployment on Cloud Platforms"
+- Relevant Coursework: Distributed Systems, Advanced Algorithms, Database Systems, Machine Learning
+
+Bachelor of Science in Software Engineering
+University of Texas at Austin | Austin, TX
+Graduated: May 2016
+- GPA: 3.8/4.0
+- Senior Capstone Project: Developed a mobile application for campus event management.
+
+Projects
+
+Personal Portfolio Website (github.com/mariag/portfolio)
+- A responsive website showcasing projects and skills, built with React and deployed on Netlify.
+
+Open Source Contribution: Awesome-List (github.com/opensource/awesome-list/pull/123)
+- Contributed documentation updates and new resource links to a popular open-source project.
+
+Certifications
+- AWS Certified Solutions Architect – Associate (2020)
